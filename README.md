@@ -13,7 +13,7 @@ Chipset | Mediatek Dimensity 9400+
 GPU     | Mali-G925-lmmortalis MC12
 Memory  | 12/16 GB RAM (LPDDR5X/5T 8533Mbps/9600Mbps)
 Shipped Android Version | 15
-Storage | 256/512/1204 GB (UFS 4.1)
+Storage | 256/512/1024 GB (UFS 4.1)
 Battery | Li-Po 7410 mAh, non-removable
 Display | 1280 x 2772 pixels, 6.83 inches, 60/120 hz
 
