@@ -1,4 +1,4 @@
-\### TWRP device tree for Redmi K80 Ultra (dali)
+### TWRP device tree for Redmi K80 Ultra (dali)
 
 
 
@@ -14,7 +14,7 @@ It was released in March 2022.
 
 
 
-\## Device specifications
+## Device specifications
 
 
 
@@ -40,11 +40,6 @@ Display | 1280 x 2772 pixels, 6.83 inches, 60/120 hz
 
 
 
-!\[Redmi K50](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms\_1653381863.47942179.png)
-
-
-
-\## Features
 
 
 
