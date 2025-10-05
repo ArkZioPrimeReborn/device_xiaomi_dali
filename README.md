@@ -1,22 +1,10 @@
 ### TWRP device tree for Redmi K80 Ultra (dali)
 
-
-
 =========================================
-
-
 
 The Redmi K80 Ultra (codenamed \_"dali"\_) is a high-end, mid-range smartphone from Xiaomi.
 
-
-
-It was released in March 2022.
-
-
-
 ## Device specifications
-
-
 
 Basic   | Spec Sheet
 
@@ -28,7 +16,7 @@ Chipset | Mediatek Dimensity 9400+
 
 GPU     | Mali-G925-lmmortalis MC12
 
-Memory  | 8/12 GB RAM (LPDDR5X/5T 8533Mbps/9600Mbps)
+Memory  | 12/16 GB RAM (LPDDR5X/5T 8533Mbps/9600Mbps)
 
 Shipped Android Version | 15
 
