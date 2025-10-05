@@ -1,1 +1,1 @@
-"# device_xiaomi_dali" 
+## TWRP device tree for Redmi K80 Ultra (dali)
