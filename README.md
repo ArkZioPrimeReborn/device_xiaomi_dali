@@ -18,7 +18,7 @@ Battery | Li-Po 7410 mAh, non-removable
 Display | 1280 x 2772 pixels, 6.83 inches, 60/120 hz
 
 
-
+![Redmi K80 Ultra](https://cdn.cnbj1.fds.api.mi-img.com/product-images/redmi-k80-ultra_602218/images/5188.png)
 
 
 
