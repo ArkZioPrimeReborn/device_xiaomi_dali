@@ -17,8 +17,10 @@ It was released in March 2022.
 ## Device specifications
 
 
--------:|:-------------------------
+
 Basic   | Spec Sheet
+
+-------:|:-------------------------
 
 CPU     | Octa-core CPU with 1x Arm Cortex-X925 up to 3.73GHz
 
@@ -35,7 +37,6 @@ Storage | 256/512 GB/1024GB (UFS 4.1)
 Battery | Li-Po 7410 mAh, non-removable
 
 Display | 1280 x 2772 pixels, 6.83 inches, 60/120 hz
--------:|:-------------------------
 
 
 
