@@ -15,7 +15,7 @@ Memory  | 12/16 GB RAM (LPDDR5X/5T 8533Mbps/9600Mbps)
 Shipped Android Version | 15
 Storage | 256/512/1024 GB (UFS 4.1)
 Battery | Li-Po 7410 mAh, non-removable
-Display | 1280 x 2772 pixels, 6.83 inches, 60/120 hz
+Display | 1280 x 2772 pixels, 6.83 inches, 60/120/144 hz
 
 
 ![Redmi K80 Ultra](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1750232024.04268021.png)
