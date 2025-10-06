@@ -8,7 +8,7 @@ The Redmi K80 Ultra (codenamed \_"dali"\_) is a high-end, mid-range smartphone f
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Octa-core CPU with 1x Arm Cortex-X925 up to 3.73GHz
+CPU     | 1x3.73GHz Cortex-X925 3x3.3GHz Cortex-X4 4x2.4GHz Cortex-A720
 Chipset | Mediatek Dimensity 9400+
 GPU     | Mali-G925-lmmortalis MC12
 Memory  | 12/16 GB RAM (LPDDR5X/5T 8533Mbps/9600Mbps)
